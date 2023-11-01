@@ -1,0 +1,12 @@
+Transaction Log:
+Deposit: +$9000000.0
+Withdrawal: -$8000.0
+Deposit: +$1000000000.0
+Withdrawal: -$1008992000.0
+Borah deposited: +$50000.0
+Bonginkosi deposited: +$7000.0
+bonginkosi deposited: +$100000.0
+bonginkosi withdrew: -$700.0
+bonginkosi withdrew: -$500.0 at 2023-11-01 13:12:23
+Bonginkosi withdrew: -$900.0 at 2023-11-01 13:59:09
+Bonginkosi withdrew: -$100.0 at 2023-11-01 14:09:11
