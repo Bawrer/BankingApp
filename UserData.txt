@@ -1,5 +1,5 @@
 Borah:bonginkosi:50000.0
-Bonginkosi:Zweni:5300.0
+Bonginkosi:Zweni:4400.0
 bonginkosi:Zweni:98800.0
 bongz:Zweni:0.0
 BONGINKOSI:Zweni:0.0

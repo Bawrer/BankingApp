@@ -14,6 +14,14 @@ try:
 except FileExistsError:
     pass
 
+# Function to view transaction history
+def view_transaction_history(username):
+    with open("TransactionLog.txt", "r") as transaction_log_file:
+        print(f"Transaction history for {username}:\n")
+        for line in transaction_log_file:
+            if line.startswith(username):
+                print(line)
+
 # Function to check the current balance for a specific user
 def check_balance(username):
     user_data = load_user_data()
