@@ -3,3 +3,4 @@ Bonginkosi:Zweni:4400.0
 bonginkosi:Zweni:98800.0
 bongz:Zweni:0.0
 BONGINKOSI:Zweni:0.0
+sisanda:sisanda2:0.0
